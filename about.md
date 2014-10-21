@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Jeremy Parmenter. I am a programmer, rock climber, and gamer. I
+blog about my travels, coding, rock
+climbing, web development, and things on my mind. I have a genuine
+motivation for programming and rock climbing that I would like to grow in
+any way possible.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+[email]({{ site.email }})
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[github](https://github.com/{{ site.github_username }})
+
+[twitter](https://twitter.com/{{ site.twitter_username }})

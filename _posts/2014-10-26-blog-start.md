@@ -8,7 +8,7 @@ crack at blogging in order to create one more task for me to find time for. I am
 going to try to dedicate a post every two weeks at the least. I have found enough
 reasons to motivate me to dedcicate my time to this blog.
 
-## Self
+### Self
 
 Strengthening my writing skills is the first reason that came to mind. I spend
 plenty of time at work writing code but I rarely sit down to write down a thought.
@@ -17,7 +17,7 @@ and broadcasting it out to the world. I feel like sometimes a pool of thoughts
 are just swirling in my brain. Spilling these thoughts into a site (or repo)
 would be beneficial to myself.
 
-## What kind of posts?
+### What kind of posts?
 
 Technology articles would be a reoccurring post on this site. I have
 been dedicating a lot of my time the last few months to learning rails and several
@@ -34,7 +34,7 @@ creative posts) about one of the recent books I read would fall into this catego
 Book posts would also help remembering what happens in the story I just read and
 put my opinion of the subject matter down on paper.
 
-## Site
+### Site
 
 Creating this repo will be the start of a personal site. A personal site that
 will start off basic but, in time, can have a much better design. I can leave
